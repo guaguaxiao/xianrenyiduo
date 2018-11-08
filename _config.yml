@@ -1,16 +1,2 @@
-# Site settings
-title: 闲人一朵
-
-baseurl: "" # the subpath of your site, e.g. /blog/
-# Build settings
-markdown: kramdown
-extensions: [fenced_code_blocks]
-
-# paging settings
-paginate: 10
-
-gems :
-  - jekyll-paginate
-
 
 theme: jekyll-theme-tactile
